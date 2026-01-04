@@ -2,7 +2,6 @@
 Manual Book Penyewaan Bot
 ================================================================
           📘 MANUAL BOOK ADMIN - ARSHAKA BOT SYSTEM
-================================================================
 Versi Dokumen : 1.0
 Dibuat Oleh   : Developer Arshaka
 Tujuan        : Panduan Penggunaan Fitur untuk Admin Grup
@@ -13,7 +12,6 @@ DAFTAR ISI:
 2. PANDUAN MODUL BISNIS (Untuk Owner Toko Online)
 3. PANDUAN MODUL KOMUNITAS (Untuk Admin Grup Umum)
 
-================================================================
 🎓 1. PANDUAN MODUL PELAJAR
    Fokus: Manajemen Kelas, Absensi, Tugas, dan Kas
 ================================================================
@@ -72,7 +70,6 @@ D. MANAJEMEN KEUANGAN (KAS)
    2. Cek Saldo
       Command: .listkas (Menampilkan saldo akhir & 10 riwayat terakhir)
 
-================================================================
 💼 2. PANDUAN MODUL BISNIS
    Fokus: Toko Online, Auto-Struk, dan Laporan Keuangan
 ================================================================
@@ -115,7 +112,6 @@ D. LAPORAN & KEAMANAN BISNIS
       - Anti Link   : .antilink on (Kirim link grup lain = Hapus pesan)
       - Anti Virtex : .antivirtex on (Kirim teks panjang = Kick)
 
-================================================================
 👥 3. PANDUAN MODUL KOMUNITAS
    Fokus: Keamanan Grup, Sider (Silent Reader), dan Leveling
 ================================================================
