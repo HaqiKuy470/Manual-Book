@@ -63,9 +63,12 @@
 
 ---
 
-Contact Owner (Haqi)
-**085792282715**
-**+6285792282715**
+## Contact Admin
+
+| Platform | IKontak | Keterangan | Action |
+| :---: | :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" width="25"> | `+62 881-0362-71708` | ⚡ **Fast Response** | [**Chat Admin**](https://wa.me/62881036271708) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" width="25"> | `+62 857-9228-2715` | 🐢 **Slow Response** | [**Chat Owner**](https://wa.me/6285792282715) |
 
 **© 2026 Arshaka Bot System - Owner: Haqi**  
 **Last Updated:** System sesuai dengan semua kode terbaru
