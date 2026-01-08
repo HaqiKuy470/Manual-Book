@@ -12,6 +12,7 @@
 |---------|--------|---------|
 | `.setketua @tag` | Melantik ketua | Admin WA atau Owner |
 | `.cekstruktur` | Lihat struktur | Semua bisa lihat |
+| `.h` | `.h [teks]` | `.h hallo everyone` |
 
 ### B. MANAJEMEN KEUANGAN (HANYA PENGURUS)
 | Command | Format | Contoh |
