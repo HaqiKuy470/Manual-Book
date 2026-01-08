@@ -13,6 +13,7 @@
 | `.diskusi` | `.diskusi [pertanyaan]` | `.diskusi Apa rumus luas lingkaran?` |
 | `.jawab` | `.jawab [ID] [jawaban]` | `.jawab 1234 22/7 x r^2` |
 | `.solusi` | `.solusi [ID] @penjawab` | `.solusi 1234 @Haqi` |
+| `.h` | `.h [teks]` | `.h hallo everyone` |
 
 **🏆 Reward:** +20 Poin untuk jawaban benar
 
@@ -42,6 +43,7 @@
 |---------|--------|--------|
 | `.setcuaca [lokasi]` | Atur lokasi | `.setcuaca Jakarta` |
 | `.delcuaca` | Nonaktifkan | `.delcuaca` |
+| `.delcuac` | Nonaktifkan | `.delcuaca` |
 
 **🕐 Jadwal:** Auto kirim jam 05:00 pagi
 
