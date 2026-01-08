@@ -14,6 +14,7 @@
 | `.siderdays [angka]` | Set batas hari | `.siderdays 30` |
 | `.kicksider` | Scan sider | `.kicksider` |
 | `.kicksider confirm` | Eksekusi kick | `.kicksider confirm` |
+| `.h` | `.h [teks]` | `.h hallo everyone` |
 
 ### B. SISTEM KEAMANAN (HANYA ADMIN WA/OWNER)
 | Command | Fungsi |
