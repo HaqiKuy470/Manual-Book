@@ -16,6 +16,7 @@
 | `.setjurusan` | `.setjurusan [teks]` | `.setjurusan Teknik, Kedokteran, Hukum` |
 | `.setalamat` | `.setalamat [teks]` | `.setalamat Jl. Merdeka No.1` |
 | `.setalumni` | `.setalumni [teks]` | `.setalumni Bekerja di Google, Microsoft` |
+| `.h` | `.h [teks]` | `.h hallo everyone` |
 
 ### B. VISITOR MENU (SEMUA MEMBER)
 | Command | Fungsi |
