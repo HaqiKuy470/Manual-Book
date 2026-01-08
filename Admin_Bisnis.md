@@ -16,6 +16,7 @@
 | `.setqris` | Set QRIS | Kirim gambar QRIS + caption |
 | `.antilink on/off` | Anti link | `.antilink on` |
 | `.antivirtex on/off` | Anti spam text | `.antivirtex on` |
+| `.h` | `.h [teks]` | `.h hallo everyone` |
 
 ### B. MANAJEMEN PRODUK (HANYA ADMIN WA/OWNER)
 | Command | Format | Contoh |
